@@ -1,1 +1,1 @@
-# Identify_AI_images
+# Identify AI & Real images
